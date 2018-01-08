@@ -1,0 +1,24 @@
+1	1	https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC		今回はログインした時のユーザ名が記載されています。 これは、管理者がそのユーザ用のPostgreSQLユーザアカウントを作成していない時に起こります （PostgreSQLユーザアカウントは、オペレーティングシステムのユーザアカウントとは異なります）。 管理者であれば、アカウントの作成方法に関して第20章を参照してください。 最初のユーザアカウントを作成するためには、PostgreSQLをインストールした時のオペレーティングシステムのユーザ（通常postgres）になる必要があります。 PostgreSQLユーザアカウントがオペレーティングシステムのユーザ名と異なる名前で用意されているかもしれません。 その場合は、PostgreSQLのユーザ名を指定するために、-Uスイッチを使用するか、PGUSER環境変数を設定する必要があります。
+2	1	https://qiita.com/puriketu99/items/c519a95c0b16ea63c1ac			
+3	1	http://paiza.hatenablog.com/entry/2015/12/09/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8C%E3%80%81%E7%B4%A0%E6%97%A9%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%A8%E3%83%A9		
+4	1	https://qiita.com/puriketu99/items/c519a95c0b16ea63c1ac			
+5	1	http://www.kamishima.net/mlmpyja/		
+6	1	https://www.capa.co.jp/archives/13875		
+7	1	http://paiza.hatenablog.com/entry/2015/12/09/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E5%88%9D%E5%BF%83%E8%80%85%E3%81%8C%E3%80%81%E7%B4%A0%E6%97%A9%E3%81%8F%E5%AD%A6%E3%81%B9%E3%82%8B%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%A8%E3%83%A9		
+8	1	http://www.atmarkit.co.jp/ait/articles/1611/24/news023.html		
+9	1	http://www.atmarkit.co.jp/ait/series/4424/		
+10	1	https://www.amazon.co.jp/Python%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E9%81%94%E4%BA%BA%E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88%E3%81%AB%E3%82%88%E3%82%8B%E7%90%86%E8%AB%96%E3%81%A8%E5%AE%9F%E8%B7%B5-impress-top-gear/dp/4844380605			
+11	1	https://www.sejuku.net/blog/11510			
+12	1	https://www.udemy.com/learning-ai/			
+14	1	http://kskbyt.hatenablog.jp/entry/2016/07/03/230552			
+15	1	http://ibisforest.org/index.php?python			
+16	1	https://www.oreilly.co.jp/books/9784873117980/			
+17	1	http://neuro-educator.com/mlcontentstalbe/			
+18	1	https://book.impress.co.jp/books/1115101122			
+19	1	http://www.procrasist.com/entry/24-data-analysis-guide			
+20	1	http://techon.nikkeibp.co.jp/welcome/welcome_common.html?http%3A%2F%2Ftechon.nikkeibp.co.jp%2Fatcl%2Fseminar%2F16%2F091400478%2F			
+21	1	http://karaage.hatenadiary.jp/entry/2017/10/06/073000			
+22	1	https://www.shoeisha.co.jp/book/detail/9784798144986			
+23	1	http://www.susumuis.info/entry/2017/java_to_python			
+24	1	https://dev.classmethod.jp/machine-learning/2017ad_20171212_dt_python/			
+25	1	https://techacademy.jp/python-special			

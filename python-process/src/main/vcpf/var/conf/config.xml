@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config version="1.0">
+  <logconfig>
+    <path>
+      <value>var/log/messages</value> <type>text</type>
+    </path>
+    <format>
+      <value>%(asctime)s %(levelname)s %(message)s</value> <type>text</type>
+    </format>
+    <level>
+      <value>DEBUG</value> <type>text</type>
+    </level>
+    <size>
+      <value>1000</value> <type>text</type>
+    </size>
+    <mode>
+      <value>a</value> <type>text</type>
+    </mode>
+    <filenum>
+      <value>10</value> <type>text</type>
+    </filenum>
+  </logconfig>
+  <dbconfig>
+    <dbname>
+      <value>interest</value> <type>text</type>
+    </dbname>
+    <hostname>
+      <value>localhost</value> <type>text</type>
+    </hostname>
+    <username>
+      <value>interest</value> <type>text</type>
+    </username>
+  </dbconfig>
+</config>
+
+
